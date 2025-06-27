@@ -1,3 +1,12 @@
-title: Francis Addo
+title: My Professional Portfolio
 logo: 
 theme: jekyll-theme-minimal 
+url:
+baseurl: " "
+
+github_username: 
+linkedin_username: www.linkedin.com/in/partron
+email: Defrancees@gmail.com
+
+markdown: kramdown
+plugins: - jekyll-seo-tag
