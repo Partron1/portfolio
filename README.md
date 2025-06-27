@@ -1,21 +1,21 @@
 # portfolio
-🔹 **About Me**  
+🔹 **ABOUT ME**  
 Hi there! I’m **Francis Addo**🙋, a Data Analyst, AI Workflow Automation Engineer🤖, and Program Manager with a passion for turning complex data into actionable insights.
 
 With a strong foundation in **climate and sustainability**🌱, I help organizations tackle environmental challenges, streamline operations, and drive sustainable growth through data-driven strategies and intelligent automation.
 
-🔹 **What I Do**  
+🔹 **WHAT I DO**  
 - *Build interactive dashboards and data pipelines to inform decisions*  
 - *Design and automate AI workflows that scale impact*  
 - *Lead cross-functional programs aligned with climate and sustainability goals*
 
 Let’s connect and solve problems that matter with data, purpose, and innovation.
 
-🔹 **My Portfolio**  
+🔹 **MY PORTFOLIO**  
 *Take a glimpse on some few projects I'v worked on **Data Analytics** and **AI Workflow Automation**!* 😃
 
-🔹 **Climate & Sustainability**  
+🔹 **CLIMATE & SUSTAINABILITY**  
 *Brigging climate & Sustaiability doers together* 
 
-🔹 **Contact Details**  
+🔹 **CONTACT DETAILS**  
 *Lets get connected and make impact: **Together We Can Do Great Things!***
