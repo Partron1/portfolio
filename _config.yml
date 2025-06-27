@@ -8,5 +8,4 @@ github_username:
 linkedin_username: www.linkedin.com/in/partron
 email: Defrancees@gmail.com
 
-markdown: kramdown
-plugins: - jekyll-seo-tag
+
