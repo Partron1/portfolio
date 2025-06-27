@@ -16,3 +16,6 @@ Let’s connect and solve problems that matter with data, purpose, and innovatio
 
 🔹 **Climate & Sustainability**  
 *Brigging climate & Sustaiability doers together* 
+
+🔹 **Contact Details**  
+*Lets get connected and make impact: **Together We Can Do Great Things!***
