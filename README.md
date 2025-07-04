@@ -18,7 +18,7 @@ Let’s connect and solve problems that matter with data, purpose, and innovatio
 - **AI Workflow Automation**
 
 🔹 **CLIMATE & SUSTAINABILITY**  
-*Brigging climate & Sustaiability doers together* 
+*Bringing climate & Sustaiability doers together* 
 
 🔹 **CONTACT DETAILS**  
 *Lets get connected and make impact: **Together We Can Do Great Things!***
