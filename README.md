@@ -1,8 +1,8 @@
 # portfolio
 🔹 **ABOUT ME**  
-Hi there! I’m **Francis**🙋, a Data Analyst, BI Intelligence🤖, Program Management and an AI Workflow Automation enthusiast with a passion for turning complex data into actionable insights.
+Hi there! I’m **Francis**🙋, a Data Analyst, BI Intelligence🤖, Program Manager and an AI Workflow Automation enthusiast with a passion for turning complex data into actionable insights.
 
-With a strong foundation in **climate and sustainability**🌱, I help organizations tackle environmental challenges, streamline operations, and drive sustainable growth through data-driven strategies and intelligent automation.
+With a foundation in **climate and sustainability**🌱, I help organizations tackle environmental challenges, streamline operations, and drive sustainable growth through data-driven strategies and intelligent automations.
 
 🔹 **WHAT I DO**  
 - *Build interactive dashboards and data pipelines to inform decisions*  
