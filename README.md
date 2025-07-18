@@ -1,4 +1,4 @@
-# portfolio
+# MY PORTFOLIO
 🔹 **ABOUT ME**  
 Hi there! I’m **Francis**🙋, a Data Analyst, BI Intelligence🤖, Program Manager and an AI Workflow Automation enthusiast with a passion for turning complex data into actionable insights.
 
