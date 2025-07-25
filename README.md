@@ -14,6 +14,8 @@ Let’s connect and solve problems that matter with data, purpose, and innovatio
 🔹 **MY PROJECT**  
 *Take a glimpse on some few projects I'v worked on:*
 - **Data Analytics**
+  
+  <img width="796" height="377" alt="Dashboard" src="https://github.com/user-attachments/assets/4a2ccde2-c5f6-4bd0-b1f6-a7bd0f7be7f4" />
 - **Business Intelligence**
 - **AI Workflow Automation**
 
