@@ -16,5 +16,6 @@ Let’s connect and solve problems that matter with data, purpose, and innovatio
 This a hands-on project I have complete of product sales performance on vehicles. 
   ![image](Dashboard.png)
 [Read More](https://github.com/Partron1/Sales_performance)
+
 🔹 **CONTACT DETAILS**  
 *Lets get connected and make impact: **Together We Can Do Great Things!***
