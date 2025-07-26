@@ -14,7 +14,7 @@ Let’s connect and solve problems that matter with data, purpose, and innovatio
 🔹 **MY PROJECT**  
 *Take a glimpse on some few projects I'v worked on:*
 
-  ![image]()
+  ![image](Dashboard.png)
 
 🔹 **CONTACT DETAILS**  
 *Lets get connected and make impact: **Together We Can Do Great Things!***
