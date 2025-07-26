@@ -1,8 +1,8 @@
 # MY PORTFOLIO
 🔹 **ABOUT ME**  
-Hi there! I’m **Francis**🙋, a Data Analyst, BI Intelligence Analyst🤖 and an AI Workflow Automation enthusiast with a passion for turning complex data into actionable insights.
+Hi, I’m Francis 🙋 a Data Analyst and BI Analyst 🤖 with a passion for using data and automation to solve real-world problems.
 
-With a foundation in **climate and sustainability**🌱, I help organizations tackle environmental challenges, streamline operations, and drive sustainable growth through data-driven strategies and intelligent automations.
+With a foundation in climate and sustainability 🌱, I help organizations turn complex data into clear insights and smarter decisions. I enjoy building dashboards, automating workflows, and finding ways to make operations more efficient and sustainable.
 
 🔹 **SERVICES**  
 - *Build interactive dashboards and data pipelines to inform decisions*  
@@ -13,8 +13,8 @@ Let’s connect and solve problems that matter with data, purpose, and innovatio
 
 🔹 **MY PROJECT**  
 *Take a glimpse on some few projects I'v worked on:*
-
+This a hands-on project I have complete of product sales performance on vehicles. 
   ![image](Dashboard.png)
-
+[Read More]()
 🔹 **CONTACT DETAILS**  
 *Lets get connected and make impact: **Together We Can Do Great Things!***
