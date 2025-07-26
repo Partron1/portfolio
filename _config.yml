@@ -2,7 +2,11 @@ title: Francis Partron Addo
 
 logo: my_image.jpg
 
-theme: jekyll-theme-modernist 
+theme: jekyll-theme-minimal 
+
+Social_link:
+- name:
+url:
 
 
 
