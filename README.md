@@ -13,6 +13,7 @@ Let’s connect and solve problems that matter with data, purpose, and innovatio
 
 🔹 **MY PROJECT**  
 *Take a glimpse on some few projects I'v worked on:*
+
 This a hands-on project I have complete of product sales performance on vehicles. 
   ![image](Dashboard.png)
 [Read More](https://github.com/Partron1/Sales_performance)
