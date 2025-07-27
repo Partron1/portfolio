@@ -1,8 +1,7 @@
 # MY PORTFOLIO
 **ABOUT ME**  
 Hi, I’m Francis 🙋 a Data Analyst and BI Analyst 🤖 with a passion for using data and automation to solve real-world problems.
-
-With a foundation in climate and sustainability 🌱, I help organizations turn complex data into clear insights and smarter decisions. I enjoy building dashboards, automating workflows, and finding ways to make operations more efficient and sustainable.
+I help organizations turn complex data into clear insights and smarter decisions. I enjoy building dashboards, automating workflows, and finding ways to make operations more efficient and sustainable.
 
 **SERVICES**  
 📌*Build interactive dashboards and data pipelines to inform decisions*  
