@@ -1,12 +1,10 @@
 title: Francis Partron Addo
 
-logo: my_image.jpg
+logo: /assets/ing/headshot_circle.png
 
 theme: jekyll-theme-minimal 
 
-Social_link:
-- name:
-url:
+show_downloads: true
 
 
 
