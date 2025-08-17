@@ -4,9 +4,9 @@ Hi, I’m Francis 🙋 a Data Analyst and BI Analyst 🤖 with a passion for usi
 I help organizations turn complex data into clear insights and smarter decisions. I enjoy building dashboards, automating workflows, and finding ways to make operations more efficient and sustainable.
 
 **Services**  
-*Build interactive dashboards and data pipelines to inform decisions*  
-*Design and automate AI workflows that scale impact*  
-*Lead cross-functional programs aligned with climate and sustainability goals*
+- *Build interactive dashboards and data pipelines to inform decisions*  
+- *Design and automate AI workflows that scale impact*  
+- *Lead cross-functional programs aligned with climate and sustainability goals*
 
 Let’s connect and solve problems that matter with data, purpose, and innovation.
 
