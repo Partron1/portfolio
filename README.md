@@ -17,7 +17,7 @@ Sales Performance Overvew
 
 [Read More](https://github.com/Partron1/Sales_performance)
 
-![Dashboard](Dashboard1.png){:style="max-width: 100%; height: auto;"}
+![Dashboard](images/Dashboard1.png){:style="max-width: 100%; height: auto;"}
 
 [Read More](https://github.com/Partron1/Tableau_Hands-on_Project)
 
