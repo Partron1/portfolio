@@ -13,13 +13,13 @@ I help organizations turn complex data into clear insights and smarter decisions
 
 Sales Performance Overvew
 
-![image](Dashboard.png)
+ ![image](Dashboard.png)
 
 [Read More](https://github.com/Partron1/Sales_performance)
 
 Traffic Volume Analysis
 
-![Dashboard](Dashboard.png)
+ ![Dashboard](Dashboard.png)
 
 [Read More](https://github.com/Partron1/Tableau_Hands-on_Project)
 
