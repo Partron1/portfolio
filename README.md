@@ -13,5 +13,13 @@ I help organizations turn complex data into clear insights and smarter decisions
 
 Sales Performance Overvew
 
+<img width="796" height="377" alt="Dashboard" src="https://github.com/user-attachments/assets/49938976-6400-4b03-a64e-a8c8ab8e2a26" />
+
+[Read More](https://github.com/Partron1/Sales_performance)
+
+<img width="1861" height="964" alt="Dashboard" src="https://github.com/user-attachments/assets/c0a67f63-3340-4656-8434-4495defb948f" />
+
+[Read More](https://github.com/Partron1/Tableau_Hands-on_Project)
+
 **Contact Details**  
 Let’s connect and solve problems that matter with data, climate, purpose, and innovation.
