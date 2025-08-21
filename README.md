@@ -13,7 +13,7 @@ I help organizations turn complex data into clear insights and smarter decisions
 
 Sales Performance Overvew
 
-
+![Sales Dashboard](Sales_Dashboard.png)
 
 [Read More](https://github.com/Partron1/Sales_performance)
 
