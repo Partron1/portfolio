@@ -11,13 +11,13 @@ I help organizations turn complex data into clear insights and smarter decisions
 **My Project**  
 *Take a glimpse on some few projects I'v worked on:*
 
-This is a project build solely with **Power Query** and **Excel**
+This Dashboard is for analysis of Vehicle sales performance. The project was built solely with **Power Query** and **Excel**
 
 ![Sales Dashboard](Sales_Dashboard.png)
 
 [Read More](https://github.com/Partron1/Sales_performance)
 
-This Project features a Dashboard built with **Tableau**
+This Project features a Dashboard built with **Tableau** to analyse Traffic volume
 
 ![Traffic Volume](Traffic_Dashboard1.png)
 
