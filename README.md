@@ -25,7 +25,10 @@ This Project features a Dashboard built with **Tableau**
 
 **You can reach me at:**
 
-- 📧 Email: [Defrancees@fmail.com](mailto:Defrancees@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/partron](https://www.linkedin.com/in/partron/)    
+- 📧 Email: [Defrancees@gmail.com](mailto:Defrancees@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/partron](https://www.linkedin.com/in/partron/)
+
+**You can view my Resume here:** [Download CV](assets/cv.pdf).
+   
 
 Let’s connect and solve problems that matter with data, climate, purpose, and innovation.
