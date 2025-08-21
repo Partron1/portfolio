@@ -17,7 +17,7 @@ Sales Performance Overvew
 
 [Read More](https://github.com/Partron1/Sales_performance)
 
- 
+![Traffic Volume](Traffic_Dashboard1.png)
 
 [Read More](https://github.com/Partron1/Tableau_Hands-on_Project)
 
