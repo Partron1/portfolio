@@ -24,11 +24,10 @@ This Project features a Dashboard built with **Tableau**
 [Read More](https://github.com/Partron1/Tableau_Hands-on_Project)
 
 **You can reach me at:**
-
 - 📧 Email: [Defrancees@gmail.com](mailto:Defrancees@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/partron](https://www.linkedin.com/in/partron/)
 
-**You can view my Resume here:** [Download CV](assets/cv.pdf).
+**My Resume:** [Download Resume](assets/Resume.pdf).
    
 
 Let’s connect and solve problems that matter with data, climate, purpose, and innovation.
