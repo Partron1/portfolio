@@ -25,7 +25,7 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 
 **You can reach me at:**
 - 📧 Email: [Defrancees@gmail.com](mailto:Defrancees@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/partron](https://www.linkedin.com/in/partron/)
+- 💼 LinkedIn: [linkedin.com/in/partron1](https://www.linkedin.com/in/partron1/)
 
 **My Resume:** [Download Resume](assets/Resume.pdf).
    
