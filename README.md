@@ -11,6 +11,10 @@ I help organizations turn complex data into clear insights and smarter decisions
 **My Project**  
 *Take a glimpse on some few projects I'v worked on:*
 
+This project analyzes Google Fiber Customer caller complains for management to make informed descisions
+
+[Read More]([https://github.com/Partron1/Tableau_Hands-on_Project](https://github.com/Partron1/fiber-caller-analytics))
+
 ![Fiber_Caller](Dashboard_1.png)
 
 This Project features a Dashboard built with **Tableau** to analyse Traffic volume
