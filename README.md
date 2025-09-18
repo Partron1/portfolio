@@ -11,6 +11,8 @@ I help organizations turn complex data into clear insights and smarter decisions
 **My Project**  
 *Take a glimpse on some few projects I'v worked on:*
 
+![Fiber_Caller](Dashboard_1.png)
+
 This Project features a Dashboard built with **Tableau** to analyse Traffic volume
 
 ![Traffic Volume](Traffic_Dashboard1.png)
