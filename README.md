@@ -11,11 +11,13 @@ I help organizations turn complex data into clear insights and smarter decisions
 **My Project**  
 *Take a glimpse on some few projects I'v worked on:*
 
+
 This project analyzes Google Fiber Customer caller complains for management to make informed descisions
+
+![Fiber_Caller](Dashboard_1.png)
 
 [Read More]([https://github.com/Partron1/Tableau_Hands-on_Project](https://github.com/Partron1/fiber-caller-analytics))
 
-![Fiber_Caller](Dashboard_1.png)
 
 This Project features a Dashboard built with **Tableau** to analyse Traffic volume
 
@@ -23,11 +25,13 @@ This Project features a Dashboard built with **Tableau** to analyse Traffic volu
 
 [Read More](https://github.com/Partron1/Tableau_Hands-on_Project)
 
+
 This Dashboard is for analysis of Vehicle sales performance. The project was built solely with **Power Query** and **Excel**
 
 ![Sales Dashboard](Sales_Dashboard.png)
 
 [Read More](https://github.com/Partron1/Sales_performance)
+
 
 **You can reach me at:**
 - 📧 Email: [Defrancees@gmail.com](mailto:Defrancees@gmail.com) 
