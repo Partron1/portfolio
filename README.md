@@ -8,8 +8,8 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 - **Project Management:** Basecamp
 - **Communication:** Zoom, Slack, Microsoft Teams
 - **Computer:** Software and hardware management
-- **Sales/Marketing (Life Science):** Customer relation, Lead generation 
-- **Environmental Sustainability:** Green digital skills & Program Management.
+- **Sales & Marketing (Life Science):** Customer relation, Lead generation 
+- **Climate & Sustainability:** Green digital skills & Program Management.
 
 **Services**  
 - Build data pipelines to Extract Transform and Load data and interactive dashboards to inform business decisions
