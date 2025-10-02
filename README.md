@@ -23,7 +23,7 @@ This project analyzes Google Fiber Customer caller complains for management to m
 
 ![Fiber_Caller](Dashboard_1.png)
 
-[Read More]([https://github.com/Partron1/Tableau_Hands-on_Project](https://github.com/Partron1/fiber-caller-analytics))
+[Read More](https://github.com/Partron1/fiber-caller-analytics)
 
 
 This Project features a Dashboard built with **Tableau** to analyse Traffic volume
