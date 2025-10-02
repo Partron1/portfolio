@@ -3,14 +3,22 @@
 Hi, I’m Francis 🙋 a Data Analyst and BI Analyst 🤖 with a passion for using data and automation to solve real-world problems.
 I help organizations turn complex data into clear insights and smarter decisions. I enjoy building dashboards, automating workflows, and finding ways to make operations more efficient and sustainable.
 
+**Skills**
+- **Programs:** Microsoft Excel, Power BI, Power Query, SQL (Big Query), Jupiter Notebook, Tableau, R, Python
+- **Collaboration:** Google Workspace, Asana
+- **Project Management:** Basecamp
+- **Communication:** Zoom, Slack, Microsoft Teams
+- **Computer:** Software and hardware management
+- **Sales/Marketing (Life Science):** Customer relation, Lead generation 
+- **Environmental Sustainability:** Green digital skills & Program Management.
+
 **Services**  
-- *Build data pipelines to Extract Transform and Load data and interactive dashboards to inform business decisions* 
-- *Design and automate AI workflows that scale impact*  
-- *Lead cross-functional programs aligned with climate and sustainability goals*
+- Build data pipelines to Extract Transform and Load data and interactive dashboards to inform business decisions
+- Design and automate AI workflows that scale impact  
+- Lead cross-functional programs aligned with climate and sustainability goals
 
 **My Project**  
 *Take a glimpse on some few projects I'v worked on:*
-
 
 This project analyzes Google Fiber Customer caller complains for management to make informed descisions
 
