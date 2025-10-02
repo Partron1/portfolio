@@ -4,7 +4,7 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 
 **Skills**
 - **Programs:** Microsoft Excel, Power BI, Power Query, SQL (Big Query), Jupiter Notebook, Tableau, R, Python
-- **Collaboration:** Google Workspace, Asana
+- **Collaboration:** Google Workspace, Asana, Github
 - **Project Management:** Basecamp
 - **Communication:** Zoom, Slack, Microsoft Teams
 - **Computer:** Software and hardware management
