@@ -1,7 +1,7 @@
 # My Portfolio
 **About Me**  
-Hi, I’m Francis 🙋 a Data Analyst and BI Analyst 🤖 with a passion for using data and automation to solve real-world problems.
-I help organizations turn complex data into clear insights and smarter decisions. I enjoy building dashboards, automating workflows, and finding ways to make operations more efficient and sustainable.
+Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about using data and automation to drive smarter, more sustainable decisions. I help organizations transform complex data into actionable insights that support climate resilience, efficiency, and sustainable growth.
+I enjoy building dashboards that highlight environmental impact, automating workflows that reduce resource waste, and designing data solutions that empower organizations to operate with both performance and planet in mind. My mission is to make data not just a tool for business success, but a catalyst for sustainability.
 
 **Skills**
 - **Programs:** Microsoft Excel, Power BI, Power Query, SQL (Big Query), Jupiter Notebook, Tableau, R, Python
