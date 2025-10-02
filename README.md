@@ -41,7 +41,10 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 
 
 **You can reach me at:**
-- 📧 Email: [Defrancees@gmail.com](mailto:Defrancees@gmail.com) 
+- 📧 Email: [Defrancees@gmail.com](mailto:Defrancees@gmail.com)
+  
+- Social: [Circle.4ward.earth](https://circle.4ward.earth/u/fc41d176)
+ 
 
 **My Resume:** [Download Resume](assets/Resume.pdf).
    
