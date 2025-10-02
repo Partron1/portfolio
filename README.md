@@ -2,7 +2,7 @@
 **About Me**  
 Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data and build dashboards that highlight environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience.
 
-**Educational Background** : BSc Biochemistry
+**Educational Background** : BSc Biochemistry                                                                                                           (2012-2016)
 
 **Skills**
 - **Programs:** Microsoft Excel, Power BI, Power Query, SQL (Big Query), Jupiter Notebook, Tableau, R, Python
