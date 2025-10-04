@@ -32,7 +32,7 @@ This Project features a Dashboard built with **Tableau** to analyse Traffic volu
 
 ![Traffic Volume](Traffic_Dashboard1.png)
 
-[Read More](https://github.com/Partron1/Tableau_Hands-on_Project)
+[Read More](https://github.com/Partron1/Tableau_Hands-on_Project/blob/main/README.md)
 
 
 This Dashboard is for analysis of Vehicle sales performance. The project was built solely with **Power Query** and **Excel**
