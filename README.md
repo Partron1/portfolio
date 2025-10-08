@@ -23,6 +23,7 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 
 ### Realtime-analytics-pipeline
 **Streaming Pipeline Using Dataflow:**
+
 Real-time data streaming pipeline for environmental monitoring that ingests IoT sensor data from multiple sources (PM2.5, PM10, CO, NO₂, O₃, temperature, humidity) to visualize and analyze city-level air quality in Accra.
 
 **Source:** IoT sensors in cities stream air quality data (timestamp, location, PM2.5, PM10, CO, NO2, O3, temperature and humidity levels every few seconds)
@@ -35,7 +36,11 @@ The Pub/sub template is a streaming pipeline that can read JSON-formatted messag
 - BigQuery (Analytics-ready table)
 
 **Dashboard:**
-Tableau showing city-level pollution heatmaps, alerts when thresholds are exceeded. Impact: Demonstrates environmental monitoring for smart cities
+Tableau showing city-level pollution heatmaps, alerts when thresholds are exceeded. 
+
+**Impact:** Demonstrates environmental monitoring for smart cities
+
+[Read More](https://github.com/Partron1/realtime-analytics-pipeline)
 
 ### Fiber Call Center Analytics
 
