@@ -2,16 +2,16 @@
 **About Me**  
 Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data and build dashboards that highlight environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience.
 
-**Educational Background** : BSc Biochemistry                                                                                                           (2012-2016)
+**🎓Educational Background** : BSc Biochemistry                                                                                                           (2012-2016)
 
-**Skills**
-- **Programs:** Microsoft Excel, Power BI, Power Query, SQL (Big Query), Jupiter Notebook, Tableau, R, Python
-- **Collaboration:** Google Workspace, Asana, Github
-- **Project Management:** Basecamp
-- **Communication:** Zoom, Slack, Microsoft Teams
-- **Computer:** Software and hardware management
-- **Sales & Marketing (Life Science):** Customer relation, Lead generation 
-- **Climate & Sustainability:** Green digital skills & Program Management.
+**🧠Skills** 
+- **⚙️Programs:** Microsoft Excel, Power BI, Power Query, SQL (Big Query), Jupiter Notebook, Tableau, R, Python
+- **🤝Collaboration:** Google Workspace, Asana, Github
+- **📖Project Management:** Basecamp
+- **📣Communication:** Zoom, Slack, Microsoft Teams
+- **💻Computer:** Software and hardware management
+- **📊Sales & Marketing (Life Science):** Customer relation, Lead generation 
+- **🌐Climate & Sustainability:** Green digital skills & Program Management.
 
 **Services**  
 - Build data pipelines to Extract Transform and Load data and interactive dashboards to inform business decisions
@@ -46,9 +46,9 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 
 |            |                                                    |                                                            
 |------------|----------------------------------------------------|
-| Email      | [Defrancees@gmail.com](mailto:Defrancees@gmail.com)|
-| Social        | [Circle.4ward.earth](https://circle.4ward.earth/u/fc41d176)|
-| My Resume     | [Download Resume](assets/Resume.pdf) |
+| 📧   Email   | [Defrancees@gmail.com](mailto:Defrancees@gmail.com)|
+| ⛓️ Social        | [Circle.4ward.earth](https://circle.4ward.earth/u/fc41d176)|
+| 💼 My Resume     | [Download Resume](assets/Resume.pdf) |
 
 
 Let’s connect and solve problems that matter with data, climate, purpose, and innovation.
