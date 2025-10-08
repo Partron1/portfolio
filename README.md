@@ -21,7 +21,7 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 **My Project**  
 *Take a glimpse on some few projects I'v worked on:*
 
-### Realtime-analytics-pipeline
+### Real-Time Air Quality Monitoring Pipeline
 **Streaming Pipeline Using Dataflow:**
 
 Real-time data streaming pipeline for environmental monitoring that ingests IoT sensor data from multiple sources (PM2.5, PM10, CO, NO₂, O₃, temperature, humidity) to visualize and analyze city-level air quality in Accra.
