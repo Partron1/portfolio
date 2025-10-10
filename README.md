@@ -1,5 +1,5 @@
 # My Portfolio
-**About Me**  
+## About Me  
 Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data and build dashboards that highlight environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience.
 
 **🎓Educational Background** : BSc Biochemistry                                                                                                           (2012-2016)
@@ -18,7 +18,7 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 - Design and automate AI workflows that scale impact  
 - Lead cross-functional programs aligned with climate and sustainability goals
 
-**My Project**  
+## My Project  
 *Take a glimpse on some few projects I'v worked on:*
 
 ### Real-Time Air Quality Monitoring Pipeline
