@@ -26,9 +26,8 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 
 Real-time data streaming pipeline for environmental monitoring that ingests IoT sensor data from multiple sources (PM2.5, PM10, CO, NO₂, O₃, temperature, humidity) to visualize and analyze city-level air quality in Accra.
 
-**Source:** IoT sensors in cities stream air quality data (timestamp, location, PM2.5, PM10, CO, NO2, O3, temperature and humidity levels every few seconds)
-In this project I used Pub/sub to BigQuery
-The Pub/sub template is a streaming pipeline that can read JSON-formatted messages from a Pub/Sub topic and write them to a BigQuery table
+**Source:** IoT sensors in cities stream air quality data (timestamp, location, PM2.5, PM10, CO, NO2, O3, temperature and humidity) levels every few seconds.
+In this project, I used **Pub/sub to BigQuery**. The Pub/sub template is a streaming pipeline that can read JSON-formatted messages from a **Pub/Sub topic** and write them to a **BigQuery table**
 
 **Pipeline:**
 - Pub/sub (Raw messages)
@@ -36,9 +35,9 @@ The Pub/sub template is a streaming pipeline that can read JSON-formatted messag
 - BigQuery (Analytics-ready table)
 
 **Dashboard:**
-Tableau showing city-level pollution heatmaps, alerts when thresholds are exceeded. 
+Tableau showing city-level pollution, alerts when thresholds are exceeded. 
 
-**Impact:** Demonstrates environmental monitoring for smart cities
+**Impact:** Demonstrates environmental monitoring for smart cities.
 
 [Read More](https://github.com/Partron1/realtime-analytics-pipeline)
 
@@ -50,14 +49,16 @@ This project analyzes Google Fiber Customer caller complains for management to m
 [Read More](https://github.com/Partron1/fiber-caller-analytics)
 
 ### Tableau_Hands-on_Project
-This Project features a Dashboard built with **Tableau** to analyse Traffic volume
+
+This Project features a Dashboard built with **Tableau** to analyse Traffic volume.
 
 ![Traffic Volume](Traffic_Dashboard1.png)
 
 [Read More](https://github.com/Partron1/Tableau_Hands-on_Project/blob/main/README.md)
 
 ### Sales Performance Overview
-This Dashboard is for analysis of Vehicle sales performance. The project was built solely with **Power Query** and **Excel**
+
+This Dashboard is for analysis of Vehicle sales performance. The project was built solely on **Power Query** and **Excel**
 
 ![Sales Dashboard](Sales_Dashboard.png)
 
@@ -73,4 +74,4 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 | 💼 My Resume     | [Download Resume](assets/Resume.pdf) |
 
 
-Let’s connect and solve problems that matter with data, climate, purpose, and innovation.
+*Let’s connect and solve problems that matter with data, climate, purpose, and innovation.*
