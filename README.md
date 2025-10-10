@@ -13,7 +13,7 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 - **📊Sales & Marketing (Life Science):** Customer relation, Lead generation 
 - **🌐Climate & Sustainability:** Green digital skills & Program Management.
 
-**Services**  
+**⚙️Services**  
 - Build data pipelines to Extract Transform and Load data and interactive dashboards to inform business decisions
 - Design and automate AI workflows that scale impact  
 - Lead cross-functional programs aligned with climate and sustainability goals
