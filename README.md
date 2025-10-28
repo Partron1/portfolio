@@ -14,7 +14,8 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 - **🌐Climate & Sustainability:** Green digital skills & Program Management.
 
 **⚙️Services**  
-- Build data pipelines to Extract Transform and Load data and interactive dashboards to inform business decisions
+- Build data pipelines to Extract Transform and Load data
+- Build interactive dashboards and reports to inform business decisions
 - Design and automate AI workflows that scale impact  
 - Lead cross-functional programs aligned with climate and sustainability goals
 
