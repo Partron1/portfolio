@@ -71,7 +71,7 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 |            |                                                    |                                                            
 |------------|----------------------------------------------------|
 | 📧   Email   | [Defrancees@gmail.com](mailto:Defrancees@gmail.com)|
-| ⛓️ Social        | [Circle.4ward.earth](https://circle.4ward.earth/u/fc41d176)|
+| ⛓️ Social        |[LinkedIn](www.linkedin.com/in/tekstain-gh)      [4ward.earth](https://circle.4ward.earth/u/fc41d176)|
 | 💼 My Resume     | [Download Resume](assets/Resume.pdf) |
 
 
