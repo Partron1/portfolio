@@ -6,12 +6,12 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 
 **🧠Skills** 
 - **⚙️Programs:** Microsoft Excel, Power BI, Power Query, SQL (Big Query), Jupiter Notebook, Tableau, R, Python
-- **🤝Collaboration:** Google Workspace, Asana, Github
-- **📖Project Management:** Basecamp
-- **📣Communication:** Zoom, Slack, Microsoft Teams
+- **🤝Collaboration:** Google Workspace, Github
+- **📖Project Management:** Airtable, Notion
+- **📣Communication:** Zoom, Slack, Microsoft Teams, WhatsApp Communities
 - **💻Computer:** Software and hardware management
 - **📊Sales & Marketing (Life Science):** Customer relation, Lead generation 
-- **🌐Climate & Sustainability:** Green digital skills & Program Management.
+- **🌐Climate & Sustainability:** Green digital skills & Event Management.
 
 **⚙️Services**  
 - Build data pipelines to Extract Transform and Load data
