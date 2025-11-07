@@ -6,12 +6,11 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 - **Research Publication:** [*Evaluation of hematological indices of childhood illnesses in Tamale Metropolis of Ghana*](https://doi.org/10.1002/jcla.22582).Journal of Clinical Laboratory Analysis, 32(8), e22582. 
 
 **🧠Skills** 
-- **Programs:** Microsoft Excel, Power BI, Power Query, SQL (Big Query), Jupiter Notebook, Tableau, R, Python
-- **Collaboration:** Google Workspace, Github
-- **Project Management:** Airtable, Notion
-- **Communication:** Zoom, Slack, Microsoft Teams, WhatsApp Communities
-- **Computer:** Software and hardware management
-- **Sales & Marketing (Life Science):** Customer relation, Lead generation 
+- **Analytics Tools:** Power BI, Tableau, Excel
+- **Databases:** MySQL, BigQuery
+- **Programing:** Python (Pandas, Matplotlib), R, DAX 
+- **Collaboration:** GitHub, Google Workspace, Notion, Airtable, Zoom, Slack, Teams
+- **Concepts:** ETL, Data modeling, KPI reporting, Dashboard Design, Data cleaning, AI & Workflow Automations
 - **Climate & Sustainability:** Green digital skills & Event Management.
 
 **⚙️Services**  
