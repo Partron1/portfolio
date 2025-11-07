@@ -1,0 +1,23 @@
+body {
+  font-family: "Inter", sans-serif;
+  color: #222;
+  background-color: #fafafa;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 180px;
+}
+
+h1, h2, h3 {
+  color: #1a73e8;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
