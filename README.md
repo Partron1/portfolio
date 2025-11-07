@@ -1,26 +1,14 @@
 # Data & BI Analyst
 ## About Me  
-Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience.
-
-**🎓Educational Background** : BSc Biochemistry(2012-2016)
-- **Research Publication:** [*Evaluation of hematological indices of childhood illnesses in Tamale Metropolis of Ghana*](https://doi.org/10.1002/jcla.22582).Journal of Clinical Laboratory Analysis, 32(8), e22582. 
-
-**🧠Skills** 
-- **Analytics Tools:** Power BI, Tableau, Excel
-- **Databases:** MySQL, BigQuery
-- **Programing:** Python (Pandas, Matplotlib), R, DAX 
-- **Collaboration:** GitHub, Google Workspace, Notion, Airtable, Zoom, Slack, Teams
-- **Concepts:** ETL, Data modeling, KPI reporting, Dashboard Design, Data cleaning, AI & Workflow Automations
-- **Climate & Sustainability:** Green digital skills & Event Management.
-
+Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilienc
+ 
 **⚙️Services**  
 - Build data pipelines to Extract Transform and Load data
 - Build interactive dashboards and reports to inform business decisions
 - Design and automate AI workflows that scale impact  
 - Lead cross-functional programs aligned with climate and sustainability goals
 
-## My Project  
-*Take a glimpse on some few projects I'v worked on:*
+## Featured Projects  
 
 ### Real-Time Air Quality Monitoring Pipeline
 **Streaming Pipeline Using Dataflow:**
@@ -65,6 +53,14 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 
 [Read More](https://github.com/Partron1/Sales_performance)
 
+
+**🧠Skills** 
+- **Analytics Tools:** Power BI, Tableau, Excel
+- **Databases:** MySQL, BigQuery
+- **Programing:** Python (Pandas, Matplotlib), R, DAX 
+- **Collaboration:** GitHub, Google Workspace, Notion, Airtable, Zoom, Slack, Teams
+- **Concepts:** ETL, Data modeling, KPI reporting, Dashboard Design, Data cleaning, AI & Workflow Automations
+- **Climate & Sustainability:** Green digital skills & Event Management.
 
 **You can reach me at:**
 
