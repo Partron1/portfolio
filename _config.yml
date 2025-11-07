@@ -10,10 +10,6 @@ show_downloads: true
 theme: jekyll-theme-minimal
 
 
-include:
-  - assets/css/style.css
-
-
 description: >-
   Data Analyst | BI Analyst | Passionate about Workflow Automation & Sustainability.
 
