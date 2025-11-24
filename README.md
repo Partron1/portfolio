@@ -30,6 +30,10 @@ Tableau showing city-level pollution, alerts when thresholds are exceeded.
 
 [Read More](https://github.com/Partron1/realtime-analytics-pipeline)
 
+### Multi-year agricultural performance data across five regions with Power BI 
+
+![Crop_yield_analysis](Crop_yield.png)
+
 ### Fiber Call Center Analytics
 
 This project analyzes Google Fiber Customer caller complains for management to make informed descisions
