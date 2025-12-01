@@ -32,6 +32,8 @@ Tableau showing city-level pollution, alerts when thresholds are exceeded.
 
 ### Multi-year agricultural performance data across five regions with Power BI 
 
+What Can Crop Yield Data Teach us About Sustainable Agriculture in Ghana?
+
 ![Crop_yield_analysis](Crop_yield.png)
 
 ### Fiber Call Center Analytics
