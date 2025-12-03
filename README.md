@@ -1,4 +1,5 @@
 # Climate Tech Builder
+Data Analysis | BI Analysis | AI Workflow Automations
 
 ## About Me  
 Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
