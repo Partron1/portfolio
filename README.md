@@ -17,7 +17,7 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 
 ### Instagram-Twitter Analysis(Tableua)
 
-![InstagramTwitter](BigQuery.png)
+![InstagramTwitter](InstagramTwiter.png)
 
 ### Hospital Infectious Waste Overview(Power BI)
 
