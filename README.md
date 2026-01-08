@@ -1,4 +1,4 @@
-# Climate Tech Builder
+# ClimateTech
 Data Analysis | BI Analysis | AI Workflow Automations
 
 ## About Me  
@@ -13,7 +13,12 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 - Leads cross-sectional events aligned with climate and sustainability goals.
 - Biochemical research and analysis 
 
-## Featured Projects  
+## Featured Projects
+
+### Instagram-Twitter Analysis
+
+![InstagramTwitter](BigQuery.png)
+
 
 ### Real-Time Air Quality Monitoring Pipeline
 **Streaming Pipeline Using Dataflow:**
