@@ -1,4 +1,4 @@
-# ClimateTech
+# Data Expert
 Data Analysis | BI Analysis | AI Workflow Automations
 
 ## About Me  
