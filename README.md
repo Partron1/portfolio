@@ -97,8 +97,8 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 |            |                                                    |                                                            
 |------------|----------------------------------------------------|
 | 📧   Email   | [Defrancees@gmail.com](mailto:Defrancees@gmail.com)|
-| LinkedIn        |[https://linkedin.com/in/tekstain-gh](https://linkedin.com/in/tekstain-gh) |
-| Circle    | [https://circle.4ward.earth/u/fc41d176](https://circle.4ward.earth/u/fc41d176)|
+| LinkedIn        |[@Francis Partron Addo](https://linkedin.com/in/tekstain-gh) |
+| Circle    | [@Francis Partron Addo](https://circle.4ward.earth/u/fc41d176)|
 | 💼 My Resume     | [Download Resume](assets/Resume.pdf) |
 
 
