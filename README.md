@@ -1,5 +1,5 @@
-# Data Expert
-Data Analysis | BI Analysis | AI Workflow Automations
+# Data Analyst
+Data Analysis | Business Intelligence | Climate Tech
 
 ## About Me  
 Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
@@ -80,6 +80,17 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 - **Collaboration:** GitHub, Google Workspace, Notion, Airtable, Zoom, Slack, Teams
 - **Concepts:** ETL, Data modeling, KPI reporting, Dashboard Design, Data cleaning, AI & Workflow Automations
 - **Climate & Sustainability:** Green digital skills & Event Management.
+  
+## Certifications
+- **Cisco Academy |** Introduction to Greenhouse Gas Accounting for IT Link                                                                        
+- **Cisco Academy |** Data Analytics Essentials Link                                                                                                                       
+- **Google |** Business Intelligence Certificate, Coursera Link                                                                                                      
+- **Google |** Data Analytics Professional Certificate, Coursera Link                                                                                         
+- **INCO Academy |** Green Digital Skills  Link                                                                                                                              
+- **Google |** Google AI Essentials, Coursera Link                                                                                                                           
+- **DataCamp |** Introduction To Python  Link                                                                                                                                
+- **Cisco Academy |** Python Essentials 1  Link                                                                                                                              
+- **FutureLearn |** Making Sense of Genomic Data: COVID-19 Web-Based Bioinformatics Link                                            
 
 **You can reach me at:**
 
