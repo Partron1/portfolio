@@ -82,15 +82,15 @@ This Dashboard is for analysis of Vehicle sales performance. The project was bui
 - **Climate & Sustainability:** Green digital skills & Event Management.
   
 ## Certifications
-- **DataCamp** Introduction To Python    
-- **Cisco Academy** Introduction to Greenhouse Gas Accounting for IT 
-- **Google** Business Intelligence Certificate, Coursera 
-- **Google** Data Analytics Professional Certificate, Coursera 
-- **Google** Google AI Essentials, Coursera 
-- **Cisco Academy** Data Analytics Essentials  
-- **INCO Academy** Green Digital Skills  
-- **Cisco Academy** Python Essentials 1  
-- **FutureLearn** Making Sense of Genomic Data: COVID-19 Web-Based Bioinformatics        
+- **DataCamp:** Introduction To Python    
+- **Cisco Academy:** Introduction to Greenhouse Gas Accounting for IT 
+- **Google:** Business Intelligence Certificate, Coursera 
+- **Google:** Data Analytics Professional Certificate, Coursera 
+- **Google:** Google AI Essentials, Coursera 
+- **Cisco Academy:** Data Analytics Essentials  
+- **INCO Academy:** Green Digital Skills  
+- **Cisco Academy:** Python Essentials 1  
+- **FutureLearn:** Making Sense of Genomic Data: COVID-19 Web-Based Bioinformatics        
   
 **Reach out at:**
 
