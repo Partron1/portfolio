@@ -17,11 +17,11 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 
 ### Instagram-Twitter Analysis(Tableua)
 
-![InstagramTwitter](InstagramTwiter.png)
+![InstagramTwitter](images/InstagramTwiter.png)
 
 ### Hospital Infectious Waste Overview(Power BI)
 
-![InfectiousWaste](InfectiousWaste.png)
+![InfectiousWaste](images/InfectiousWaste.png)
 
 [Read more...](https://github.com/Partron1/Infectious_waste)
 
@@ -49,12 +49,12 @@ Tableau showing city-level pollution, alerts when thresholds are exceeded.
 
 What Can Crop Yield Data Teach us About Sustainable Agriculture in Ghana?
 
-![Crop_yield_analysis](Crop_yield.png)
+![Crop_yield_analysis](images/Crop_yield.png)
 
 ### Fiber Call Center Analytics
 
 This project analyzes Google Fiber Customer caller complains for management to make informed descisions
-![Fiber_Caller](Dashboard_1.png)
+![Fiber_Caller](images/Dashboard_1.png)
 
 [Read More](https://github.com/Partron1/fiber-caller-analytics)
 
@@ -62,7 +62,7 @@ This project analyzes Google Fiber Customer caller complains for management to m
 
 This Project features a Dashboard built with **Tableau** to analyse Traffic volume.
 
-![Traffic Volume](Traffic_Dashboard1.png)
+![Traffic Volume](images/Traffic_Dashboard1.png)
 
 [Read More](https://github.com/Partron1/Tableau_Hands-on_Project/blob/main/README.md)
 
@@ -70,7 +70,7 @@ This Project features a Dashboard built with **Tableau** to analyse Traffic volu
 
 This Dashboard is for analysis of Vehicle sales performance. The project was built solely on **Power Query** and **Excel**
 
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard](images/Sales_Dashboard.png)
 
 [Read More](https://github.com/Partron1/Sales_performance)
 
