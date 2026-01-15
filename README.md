@@ -23,6 +23,8 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 
 ![InfectiousWaste](InfectiousWaste.png)
 
+[Read more...](https://github.com/Partron1/Infectious_waste)
+
 ### Real-Time Air Quality Monitoring Pipeline
 **Streaming Pipeline Using Dataflow:**
 
