@@ -15,10 +15,6 @@ Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into
 
 ## Featured Projects
 
-### Instagram-Twitter Analysis(Tableua)
-
-![InstagramTwitter](images/InstagramTwiter.png)
-
 ### Hospital Infectious Waste Overview(Power BI)
 
 ![InfectiousWaste](images/InfectiousWaste.png)
