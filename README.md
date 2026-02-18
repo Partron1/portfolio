@@ -62,7 +62,7 @@ This project analyzes Google Fiber Customer caller complains for management to m
 
 This Project features a Dashboard built with **Tableau** to analyse Traffic volume.
 
-![Traffic Volume](images/Traffic_Dashboard1.png)
+![Traffic Volume](images/Dasboard_1.png)
 
 [Read More](https://github.com/Partron1/Tableau_Hands-on_Project/blob/main/README.md)
 
