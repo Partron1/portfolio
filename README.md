@@ -1,8 +1,8 @@
-# Data Analyst
+# Sustainability Analyst
 Data Analysis | Business Intelligence | Climate Tech | AirTable Builder
 
 ## About Me  
-Hi, I’m Francis🙋a Data & BI Analyst 🤖 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
+Hi, I’m Francis🙋 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
  
 **⚙️Services**  
 - Builds end-to-end ETL pipeline to Extract Transform and Load data while managing databases.
