@@ -1,8 +1,8 @@
 # Sustainability Analyst
-Data Analysis | Business Intelligence | Climate Tech | AirTable Builder
+Data & BI Analysis | Climate Tech | AI Workflow Automations | Program Managment
 
 ## About Me  
-Hi, I’m Francis🙋 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience
+Hi, I’m Francis🙋 passionate about turning data into smarter, more sustainable decisions. I analyze data, build dashboards and reports that highlights business and environmental impact, automate workflows to cut waste, and design solutions that help organizations drive both business performance and climate resilience. Currently the Head of Events and City Leads (Africa) at 4Ward Earth (volunteer role), leading the design and execution of climate-focused initiatives across multiple African cities.
  
 **⚙️Services**  
 - Builds end-to-end ETL pipeline to Extract Transform and Load data while managing databases.
